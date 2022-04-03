@@ -21,6 +21,7 @@ Small usage example :
 ```c
 include "EXS.xs";
 void main(){
+    EXSetup();
     //================================
     // DEFINE CLASS
     //================================
