@@ -25,7 +25,6 @@ void Simple(){
     Item("gray",11);
     Remove("pink");
     Merge(colors1);
-    int colors3 = Dict();
     DisplayFields(colors2);
     DisplayText("-----------");
     //================================
